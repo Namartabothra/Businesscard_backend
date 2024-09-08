@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/businesscard.iml" filepath="$PROJECT_DIR$/.idea/businesscard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/businesscard.businesscard.main.iml" filepath="$PROJECT_DIR$/.idea/modules/businesscard.businesscard.main.iml" />
+    </modules>
+  </component>
+</project>

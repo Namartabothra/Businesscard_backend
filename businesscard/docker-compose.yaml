@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  businesscard-db:
+    image : postgres:15.2
+    container_name: businesscard-db
+    environment:
+      - POSTGRES_USER=businesscard
+      - POSTGRES_PASSWORD=businesscard
+      - POSTGRES_DB=business-card
+    ports:
+      - "5432:5432"
